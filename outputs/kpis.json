@@ -1,0 +1,12 @@
+{
+  "total_revenue": 9823459.37,
+  "revenue_dec10_to_nov11": 9378325.77,
+  "orders": 19648,
+  "customers": 4324,
+  "products": 3902,
+  "countries": 38,
+  "average_order_value": 499.97,
+  "uk_revenue_share": 0.8472,
+  "repeat_customer_rate": 0.6526,
+  "cancelled_invoice_rate": 0.1633
+}
